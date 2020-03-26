@@ -2,9 +2,11 @@
 
 ---
 
-Datum: 26.03.2020
-Zeit: 19:00 Uhr
-Ort: Zürich (Online)
+**Datum**: 26.03.2020
+
+**Zeit**: 19:00 Uhr
+
+**Ort**: Zürich (Online)
 
 ---
 
@@ -28,7 +30,7 @@ Ort: Zürich (Online)
 - Revisionsstelle
 - Unterschriften
 
-### Formelles
+## Formelles
 
 Luca Hostettler begrüsst als Einladender die Anwesenden und stellt fest, dass für die Gründung des Biergit Vereins folgende Personen anwesend sind:
 
@@ -47,15 +49,15 @@ Folgenden Personen werden gewählt:
 
 - Luca Hostettler, wohnhaft Zürich, als Protokollführer
 
-### Gründungsbeschluss
+## Gründungsbeschluss
 
 Die Versammlung beschliesst, unter dem Namen **BIERGIT** einen Verein gemäss Art. 60 ff. des Schweizerischen Zivilgesetzbuches (ZGB) mit Sitz in **ZÜRICH** zu gründen.
 
-### Genehmigung Statuten
+## Genehmigung Statuten
 
 Die Versammlung genehmigt den vorliegenden Statutenentwurf und legt ihn als gültige Statuten des Vereins fest.
 
-### Wahl des Vorstand
+## Wahl des Vorstand
 
 Die Gründerversammlung wählt für die Dauer von einem Jahr ab dem Datum der Gründung folgende Mitglieder des Vorstands:
 
@@ -66,20 +68,22 @@ Die Gründerversammlung wählt für die Dauer von einem Jahr ab dem Datum der Gr
 
 Die Gewählten nehmen die Wahl an.
 
-### Revisionsstelle
+## Revisionsstelle
 
 Die Gründungsmitglier stellen einstimmig fest, dass der Verein nicht zur ordentlichen Revision gemäss Art. 69b Abs. 1 ZGB verpflichtet ist. Nachdem der Verein weniger als 10 Vollzeitstellen im Jahresdurchschnitt haben wird, beschliesst die Gründerversammlung einstimmig, auf eine Revisionsstelle gemäss Art. 69b Abs. 3 ZGB i.V.m. Art. 727a Abs. 2 OR zu verzichten.
 
-### Unterschriften
+## Unterschriften
 
 Ort, Datum
 Zürich, 26. März 2020
 
-**Protokollführerin**
-Luca Hostettler
+### **Protokollführerin**
 
-**Vorsitzende**
-Florian Bohren als Präsident
-Jan Minder als Vizepräsident
-Luca Hostettler als Kassier
-Marc Bischof als Aktuar
+- Luca Hostettler
+
+### **Vorsitzende**
+
+- Florian Bohren als Präsident
+- Jan Minder als Vizepräsident
+- Luca Hostettler als Kassier
+- Marc Bischof als Aktuar
