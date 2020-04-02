@@ -77,7 +77,7 @@ Die Gründungsmitglier stellen einstimmig fest, dass der Verein nicht zur ordent
 Ort, Datum
 Zürich, 26. März 2020
 
-### **Protokollführerin**
+### **Protokollführer**
 
 - Luca Hostettler
 
